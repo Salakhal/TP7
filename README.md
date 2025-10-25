@@ -91,7 +91,7 @@ Masse salariale totale : 8840.00€
 
 Voici un exemple de l'exécution du programme (screenshot) :
 
-![Exécution du programme](execution.ex2.PNG)
+![Exécution du programme](execution.ex1.PNG)
 
 
 
