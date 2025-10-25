@@ -85,7 +85,19 @@ Chouaib Youssef → Salaire = 2500.00€
 Lahlou Salma → Salaire = 1440.00€
 Masse salariale totale : 8840.00€
 
+
 ```
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
+![Exécution du programme](execution.EX2.PNG)
+
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
+![Exécution du programme](execution.ex2.PNG)
+
 
 
 ## Exercice 2 : Modélisation d’un système de fichiers  
@@ -169,6 +181,11 @@ Taille totale : 534200 B
 
  ```
 
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
+
+![Exécution du programme](execution.ex2.PNG)
 
 
 
